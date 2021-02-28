@@ -1,6 +1,6 @@
 # POROS Freepass Challenge 2021
 
-## Departemen Litbang bidang Operations
+## Departemen Litbang Bidang Operations
 
 ---
 
