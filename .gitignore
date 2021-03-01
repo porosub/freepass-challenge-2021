@@ -1,0 +1,11 @@
+# Node rules:
+.grunt
+
+## Dependency directory
+node_modules
+
+_book
+
+*.epub
+*.mobi
+*.pdf
