@@ -1,10 +1,6 @@
-# POROS Freepass Challenge 2021
+# Departemen Litbang Bidang Operations
 
-## Departemen Litbang Bidang Operations
-
----
-
-### Task
+## Task
 
 1. Buatkan sebuah file docker-compose untuk Web Environment (1 Load Balancer, 2 Web Server, 1 Database Server, phpmyadmin)  
 Ketentuan : semua service bisa berjalan dan diakses dari luar container, file docker-compose harus bisa digunakan user tanpa harus melakukan konfigurasi apapun lagi

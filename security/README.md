@@ -1,10 +1,6 @@
-# POROS Freepass Challenge 2021
+# Departemen Litbang Bidang Security
 
-## Departemen Litbang Bidang Security
-
----
-
-### Task
+## Task
 
 1. Buatlah akun pada platform CTF [berikut](http://freepass-ctf.poros-cys.com/), gunakan email ub untuk mendaftar. 
 2. Biasakan diri dengan platform tersebut. Cari referensi mengenai istilah berikut,
@@ -31,4 +27,4 @@
 
 > Challenger diperbolehkan untuk mencari di internet untuk referensi solving ataupun bertanya pada [discord POROS](https://discord.gg/QvHqMBtPv5)  
  
-> Buatlah write up serapi dan semenarik mungkin untuk dibaca :)
+> Buatlah write up serapi dan sejelas dan semenarik mungkin untuk dibaca :)

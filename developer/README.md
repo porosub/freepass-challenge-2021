@@ -1,9 +1,6 @@
-# POROS Freepass Challenge 2021
+# Departemen Litbang Bidang Developer
 
-## Departemen Litbang Bidang Developer
-
----
-
+## Task
 Buatlah project dengan memilih minimal salah satu BAGIAN/STACK berikut :
 - Back-end web service
 - Front-end website
@@ -22,6 +19,8 @@ Ketentuan :
 - Bebas menggunakan framework/library
 - Disarankan mengaplikasikan Test Driven Development
 - Project diupload ke github/gitlab dengan repository public dan dipresentasikan saat tes wawancara
+
+---
 
 Contoh Back-end web service
 
