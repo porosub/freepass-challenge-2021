@@ -29,6 +29,6 @@
 
 > No Cheating, dilarang mengerjakan soal bersama dengan peserta lain. Soal dikerjakan sendiri-sendiri.
 
-> Challenger diperbolehkan untuk mencari di internet untuk referensi solving ataupun bertanya pada [discord POROS](https://discord.gg/pT7yqg53)  
+> Challenger diperbolehkan untuk mencari di internet untuk referensi solving ataupun bertanya pada [discord POROS](https://discord.gg/QvHqMBtPv5)  
  
 > Buatlah write up serapi dan semenarik mungkin untuk dibaca :)
