@@ -29,8 +29,8 @@ Ketentuan : OS yang digunakan wajib GNU/Linux non-GUI, VM dan semua service haru
 
 **[Kumpulkan link repositori disini](https://forms.gle/N4afM7ZCcakhUhKh7) maksimal pada tanggal 10 Maret 2021 pukul 23:59**
 
-> NO CHEATING! Dilarang mengerjakan soal bersama dengan peserta lain
-> NO PLAGIARISM! Dilarang melakukan plagiasi karya orang lain. Kerjakan semaksimal mungkin dengan jujur
+> NO CHEATING! Dilarang mengerjakan soal bersama dengan peserta lain  
+> NO PLAGIARISM! Dilarang melakukan plagiasi karya orang lain. Kerjakan semaksimal mungkin dengan jujur  
 > Challenger diperbolehkan untuk mencari di internet untuk referensi solving ataupun bertanya pada [discord POROS](https://discord.gg/QvHqMBtPv5)  
 > Sebaiknya beri nama ```README.md``` pada write up agar bisa langsung terlihat di repositori  
 > Buatlah dokumentasi serapi dan semenarik mungkin untuk dibaca :)
