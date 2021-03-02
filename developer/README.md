@@ -34,7 +34,7 @@ Contoh Back-end web service
 
 Contoh Front-end website
 
-![](img/dev-003.jpg)
+![](img/dev-002.jpg)
 
 Contoh Front-end mobile apps
 
