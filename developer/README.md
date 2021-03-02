@@ -18,7 +18,13 @@ Ketentuan :
 - Mematuhi aturan lisensi apabila menggunakan kode sumber eksternal
 - Bebas menggunakan framework/library
 - Disarankan mengaplikasikan Test Driven Development
+
+Pengumpulan : 
 - Project diupload ke github/gitlab dengan repository public dan dipresentasikan saat tes wawancara
+- Pengumpulan melalui email dengan ketentuan,
+  - Kirim ke email poros di ubporos@gmail.com
+  - Kirim dengan Subjek `[ FREEPASS POROS DEV 2021 ]`
+  - Lampirkan nama, nim, id line, beserta tatutan ke github repository
 
 ---
 
