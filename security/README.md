@@ -34,6 +34,6 @@
 
 > No Cheating, dilarang mengerjakan soal bersama dengan peserta lain. Soal dikerjakan sendiri-sendiri.
 
-> Challenger diperbolehkan untuk mencari di internet untuk referensi solving ataupun bertanya pada [discord POROS](https://discord.gg/QvHqMBtPv5)  
+> Challengee diperbolehkan untuk mencari di internet untuk referensi solving ataupun bertanya pada [discord POROS](https://discord.gg/QvHqMBtPv5)  
  
 > Jadwal tepatnya wawancara akan diberitahukan setelah mengumpulkan Writeup dan memilih tanggal wawancara
