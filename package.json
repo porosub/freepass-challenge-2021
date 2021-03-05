@@ -1,0 +1,28 @@
+{
+    "name": "freepass-challenge-2021",
+    "version": "1.0.0",
+    "description": "Daftar Challange Untuk Freepass POROS 2021",
+    "main": "index.js",
+    "scripts": {
+        "start": "gitbook serve",
+        "build": "gitbook build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/porosub/freepass-challenge-2021.git"
+    },
+    "keywords": [
+        "freepass-2021"
+    ],
+    "author": "porosfilkom",
+    "license": "CC-BY-4.0",
+    "bugs": {
+        "url": "https://github.com/porosub/freepass-challenge-2021/issues"
+    },
+    "homepage": "https://github.com/porosub/freepass-challenge-2021#readme",
+    "devDependencies": {
+        "gitbook": "git+https://github.com/GitbookIO/gitbook.git",
+        "gitbook-cli": "^2.3.2"
+    }
+}
